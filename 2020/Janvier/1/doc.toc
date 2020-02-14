@@ -1,2 +1,2 @@
 \babel@toc {french}{}
-\contentsline {chapter}{\numberline {1}Mordu par l'hiver}{5}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}Arriv\IeC {\'e}e dans le village}{5}{chapter.1}% 
